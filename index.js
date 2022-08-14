@@ -107,7 +107,7 @@ async function sendPushMessage (subscription, text) {
       vapidKeys: APPLICATION_KEYS,
       // contact information for push service to contact you
       // in case of problem. It's either a mailto: or https: link
-      subject: 'https://jimmy.warting.se'
+      subject: 'dele@4ng.net'
     })
   }
 
